@@ -1,7 +1,7 @@
-## ETL-Project
-### Games, Anime and You
+### ETL-Project
+## Games, Anime and You
 
-# Collaborators: Jason Peterson, Paula Caudilla
+### Collaborators: Jason Peterson, Paula Caudilla
 
 What data sources are you using?
 http://screencritix.com/the-influence-of-anime-on-video-games/
